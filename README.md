@@ -1,5 +1,11 @@
 # random-quote
 
+## Installation
+
+```bash
+sudo ln -sf $(pwd)/random-quote.py /usr/local/bin/random-quote
+```
+
 ## Example configuration
 
 ```bash
